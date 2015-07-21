@@ -4,7 +4,7 @@
 
 Welcome to the [bip.io](https://bip.io) API Server (Sansa 0.3)
 
-bip.io is Billion Instructions Per I/O - For People and Robots.  
+bip.io is Billion Instructions Per I/O - For People and Robots.
 
 Imagine you can send a single standard payload and have a limitless host of API's orchestrate at your command.  
 
